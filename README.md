@@ -6,7 +6,7 @@
 
 ### Links and Resources
 
-- [ci/cd](http://xyz.com) (GitHub Actions)
+- [ci/cd](https://github.com/jennerdulce/basic-express-server/actions) (GitHub Actions)
 
 ### Setup
 
